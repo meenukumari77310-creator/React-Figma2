@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Figma2/static/css/main.a602191e.css",
+    "main.js": "/React-Figma2/static/js/main.ad34342c.js",
+    "index.html": "/React-Figma2/index.html",
+    "main.a602191e.css.map": "/React-Figma2/static/css/main.a602191e.css.map",
+    "main.ad34342c.js.map": "/React-Figma2/static/js/main.ad34342c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a602191e.css",
+    "static/js/main.ad34342c.js"
+  ]
+}
